@@ -1,5 +1,3 @@
 # **Todo**
 
-- None
-
 ## **Commit**
